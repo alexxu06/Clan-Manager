@@ -13,13 +13,14 @@ I decided to create this project because it would personally help me identify an
 
 ## Credits
 These are the softwares and resources I used:
+
 **Framework and Libraries**
--[React](https://react.dev/)
--[Flask](https://flask.palletsprojects.com/en/stable/)
+- [React](https://react.dev/)
+- [Flask](https://flask.palletsprojects.com/en/stable/)
 
 **External API**
--[Clash of Clans API](https://developer.clashofclans.com/#/)
+- [Clash of Clans API](https://developer.clashofclans.com/#/)
 
 **Learning Resources**
--[REST API Crash Course - Introduction + Full Python API Tutorial](https://www.youtube.com/watch?v=qbLc5a9jdXo&ab_channel=CalebCurry)
--[React Full Course for free ⚛️ (2024)](https://www.youtube.com/watch?v=CgkZ7MvWUAA&t=16127s&ab_channel=BroCode)
+- [REST API Crash Course - Introduction + Full Python API Tutorial](https://www.youtube.com/watch?v=qbLc5a9jdXo&ab_channel=CalebCurry)
+- [React Full Course for free ⚛️ (2024)](https://www.youtube.com/watch?v=CgkZ7MvWUAA&t=16127s&ab_channel=BroCode)
