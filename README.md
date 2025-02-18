@@ -1,4 +1,4 @@
-# Clan-Manager
+# Clan Manager
 
 ## Overview
 This application helps manage clans in clans in clash by displaying statistics of individual clan members and their respective contributions to the clan.
@@ -10,6 +10,8 @@ I decided to create this project because it would personally help me identify an
 - Organize members by their contribution 
 - Choose what type of contribution to use (ex. donations, clan war performance, cwl performance, clan capital performance)
 - record history of contributions
+- View how active opponent can is in clan wars
+- Compare statistics between clans
 
 ## Credits
 These are the softwares and resources I used:
