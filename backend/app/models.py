@@ -13,7 +13,7 @@ class User(db.Model):
     password: Mapped[Optional[str]] = mapped_column(String) # Optional means that it can be null (optional field)
     clan_tag: Mapped[Optional[str]] = mapped_column(String, index=True, unique=False) # multiple accounts can view same clan
 
-    clan_members: Mapped[List["clan_member"]] = relationship(back_populates="leader")
+    clan_members: Mapped[List["ClanMember"]] = relationship(back_populates="leader")
 
     def __repr__(self):
         return "<User {}>".format(self.username) # if username is Bob, will return: <User Bob>
@@ -40,6 +40,6 @@ class ClanMember(db.Model):
     leader: Mapped["User"] = relationship(back_populates="clan_members")
 
     def __repr__(self):
-        return "<Clan Member {}>".format(self.body)
+        return "<Clan Member {}>".format(self.name)
 
-
+#p = ClanMember(name='whably', tag="abd", role="coleader", trophies=5000, donations=2000, town_hall_level=14, war_preference=True, clan_capital_contributions = 3000, attackWins=100, leader=u)    
