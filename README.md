@@ -13,6 +13,11 @@ I decided to create this project because it would personally help me identify an
 - View how active opponent can is in clan wars
 - Compare statistics between clans
 
+## Proccess
+- began by trying to learn what a rest api actually is -> did so through youtube videos (main one that worked for me linked below)
+- watched/skimmed through a 12 hour python course by bro code (very good video) 
+- Started backend, looked through a bunch of tutorials until I came across the Flask Mega-Tutorial which significantly helped me set everything up - Got a bit stuck on the databases in which I used SLQAlchemy documentation a bit and some videos to explain migration (linked below)
+
 ## Credits
 These are the softwares and resources I used:
 
@@ -25,4 +30,9 @@ These are the softwares and resources I used:
 
 **Learning Resources**
 - [REST API Crash Course - Introduction + Full Python API Tutorial](https://www.youtube.com/watch?v=qbLc5a9jdXo&ab_channel=CalebCurry)
+- [Python Full Course for free 🐍 (2024)](https://www.youtube.com/watch?v=ix9cRaBkVe0&t=4902s&ab_channel=BroCode)
+- [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [SQLAlchemy ORM](https://docs.sqlalchemy.org/en/20/orm/quickstart.html)
+- [SQLAlchemy Migrations Using Flask-Migrate](https://www.youtube.com/watch?v=uNmWxvvyBGU)
 - [React Full Course for free ⚛️ (2024)](https://www.youtube.com/watch?v=CgkZ7MvWUAA&t=16127s&ab_channel=BroCode)
+
